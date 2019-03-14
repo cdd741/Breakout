@@ -17,7 +17,7 @@ make
 and
 
 ```
-./main
+./breakout
 ```
 
 to run the program
