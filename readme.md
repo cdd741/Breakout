@@ -4,7 +4,7 @@ Breakout is a simple 2D video game, originally published by Atari in 1976. "In t
 
 ### Prerequisite
 
-You need to run under Linux with the support of XWindow.
+You need to run under Linux with the support of Xlib.
 
 ### Make and Run
 
