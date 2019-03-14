@@ -22,7 +22,7 @@ and
 
 to run the program
 
-## Rules:
+### Rules:
 
 1. Using paddle to eliminate all bricks to get a high score.
 
@@ -32,7 +32,7 @@ to run the program
 
 4. After all bricks are eliminated, a new layout will appear.
 
-## Control:
+### Control:
 
 1. left arrow or 'a' to move the paddle left.
 
@@ -42,7 +42,7 @@ to run the program
 
 4. 'q' to quit.
 
-## Features:
+### Features:
 
 Bricks' color is generated randomly from a series of selected color.
 
