@@ -44,8 +44,8 @@ to run the program
 
 ### Features:
 
-Bricks' color is generated randomly from a series of selected color.
+Bricks' color is generated randomly from a series of selected colors.
 
-There are 3 different layout, and the layout is being chose randomly as well.
+There are 3 different layouts, and the layout will be randomly chosen.
 
-The ball and paddle color changes as the hit a brick.
+The ball and paddle's color change as the color that the ball hit the brick.
